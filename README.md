@@ -16,6 +16,7 @@ To run the project:
 ### Home Page:
 
 ![[Images/home1.jpeg]](https://github.com/pujjj/WorkUp/blob/main/Images/home1.jpeg)
-![[Images/home2.jpeg]]
 
+![[[Images/home2.jpeg]](https://github.com/pujjj/WorkUp/blob/main/Images/home2.png)https://github.com/pujjj/WorkUp/blob/main/Images/home2.png]
 
+![https://github.com/pujjj/WorkUp/blob/main/Images/home3.png]
