@@ -13,4 +13,6 @@ To run the project:
   node app.js
 ```
 
+### Home Page:
+
 
