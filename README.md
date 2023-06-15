@@ -15,4 +15,6 @@ To run the project:
 
 ### Home Page:
 
+![Images/home1.jpeg]
+
 
