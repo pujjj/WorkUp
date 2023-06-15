@@ -22,4 +22,4 @@ To run the project:
 ![](https://github.com/pujjj/WorkUp/blob/main/Images/home3.png)
 
 ### Submit Page:
-![](https://github.com/pujjj/WorkUp/blob/main/Images/home3.png)
+![](https://github.com/pujjj/WorkUp/blob/main/Images/submit.png)
