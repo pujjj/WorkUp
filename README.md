@@ -18,3 +18,8 @@ To run the project:
 ![[Images/home1.jpeg]](https://github.com/pujjj/WorkUp/blob/main/Images/home1.jpeg)
 
 ![](https://github.com/pujjj/WorkUp/blob/main/Images/home2.png)
+
+![](https://github.com/pujjj/WorkUp/blob/main/Images/home3.png)
+
+### Submit Page:
+![](https://github.com/pujjj/WorkUp/blob/main/Images/home3.png)
